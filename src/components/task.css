@@ -1,0 +1,9 @@
+.done{
+    color:green;
+    text-decoration: line-through;
+}
+.notDone{
+    color: red;
+    text-decoration: underline;
+
+}
